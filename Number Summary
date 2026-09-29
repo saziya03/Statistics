@@ -1,1 +1,44 @@
+# Removing Outliers
 
+This project demonstrates how to identify and remove outliers from a dataset using Python and statistical methods.
+
+## 📌 Objective
+
+The main objective of this project is to:
+
+- Identify outliers in numerical data
+- Understand how outliers affect data analysis
+- Remove unwanted extreme values
+- Compare data before and after removing outliers
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Statistics
+
+## 📊 Topics Covered
+
+- Mean
+- Median
+- Standard Deviation
+- Quartiles
+- IQR (Interquartile Range)
+- Outlier Detection
+- Outlier Removal
+- Data Visualization
+
+## 🔍 Outlier Detection using IQR
+
+The Interquartile Range (IQR) method is used to detect outliers.
+
+### Formula
+
+```text
+IQR = Q3 - Q1
+
+Lower Bound = Q1 - 1.5 × IQR
+
+Upper Bound = Q3 + 1.5 × IQR
