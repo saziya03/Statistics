@@ -1,1 +1,76 @@
+# Histogram & Skewness 📊
+
+## 📌 Introduction
+A histogram and skewness are important concepts in Statistics and Data Analytics. A histogram represents the distribution of numerical data using bars, while skewness helps us understand the shape and asymmetry of the distribution.
+
+This folder contains Python practice examples to understand data distribution and identify whether data is symmetric or skewed.
+
+## 🎯 Objectives
+- Understand histograms and their uses.
+- Visualize numerical data distributions.
+- Learn positive, negative, and zero skewness.
+- Understand how the mean and median relate to skewness.
+- Practice statistical analysis using Python.
+
+## 🛠️ Tools & Technologies
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## 📚 Concepts Covered
+
+### 1. Histogram
+A histogram displays the frequency distribution of numerical data by grouping values into intervals called bins.
+
+**Uses:**
+- Understand data distribution.
+- Identify common value ranges.
+- Observe spread, peaks, and possible outliers.
+
+### 2. Skewness
+Skewness measures the asymmetry of a data distribution.
+
+- **Positive Skewness (Right-Skewed):** The distribution has a longer tail on the right.
+- **Negative Skewness (Left-Skewed):** The distribution has a longer tail on the left.
+- **Zero or Near-Zero Skewness:** The distribution has little or no measured asymmetry.
+
+### 3. Mean, Median, and Skewness
+For many unimodal distributions:
+
+- Right-skewed: Mean is often greater than the median.
+- Left-skewed: Mean is often less than the median.
+- Symmetric: Mean and median are often approximately equal.
+
+These are common patterns, not rules that apply to every dataset.
+
+## 🔄 Workflow
+1. Import the required Python libraries.
+2. Load or create numerical data.
+3. Explore the data using Pandas and NumPy.
+4. Plot a histogram using Matplotlib or Seaborn.
+5. Calculate skewness.
+6. Interpret the distribution and summarize the findings.
+
+## 💡 Applications
+- Exploratory Data Analysis (EDA)
+- Understanding salary and income distributions
+- Analyzing sales and customer data
+- Detecting unusual data patterns
+- Supporting data cleaning and statistical analysis
+
+## 🎓 Learning Outcomes
+This practice helps develop an understanding of data distributions, visualization, and skewness using Python. These concepts are useful for exploratory data analysis and Data Analyst interviews.
+
+## 👩‍💻 Author
+**Saziya Alvi**
+
+- GitHub: [saziya03](https://github.com/saziya03)
+- Repository: [Statistics](https://github.com/saziya03/Statistics)
+
+---
+
+⭐ This folder represents my learning and practice in Statistics and Python-based data analysis.
 
